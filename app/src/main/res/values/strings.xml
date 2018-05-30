@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">Consenta.me</string>
+    <string name="app_name">Consenta Mobile test</string>
+    <string name="main_console_err_msg">ERROR: you must approve the Terms and Conditions</string>
+    <string name="main_console_success_msg">SUCCESS! consent ID: %s user consent ID: %s</string>
+    <string name="registration_activity_header">Register to our service</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="email">Email</string>
+    <string name="birth_date">Birth date</string>
+    <string name="submit_btn_txt">Submit</string>
 </resources>
